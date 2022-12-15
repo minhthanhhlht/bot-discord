@@ -1,4 +1,4 @@
 module.exports = {
-  "token": "MMTA0MjEyMTA2OTY3MjI4NDI3MA.GdUavS.atGyc-7kT86lMeD8fMvl866w0-_IXdNPYqJ6Hc",
+  "token": "MTA0NDY4MjgyNzc2MzAzMjIxNg.GnXZ8X.Eg_XaQUs6aRgsH0mYWqXM2FcWOYTQuV6wivUeI",
   "language": true
 }
